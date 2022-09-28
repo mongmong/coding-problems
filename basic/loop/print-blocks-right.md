@@ -2,7 +2,7 @@
 
 ## Problem
 
-Given an integer n (n<20), print n square blocks with size from 1 to n. All blocks should aligh to the right.
+Given an positive integer n (n <= 20), print n square blocks with size from 1 to n. All blocks should aligh to the right.
 
 ## Hints
 
