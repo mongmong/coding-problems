@@ -7,4 +7,5 @@ Input a string that contains arbitrary alphabets, and cast every lower case lett
 ## Example
 
 Input: Hello, world!
+
 Output: HELLO, WORLD!
