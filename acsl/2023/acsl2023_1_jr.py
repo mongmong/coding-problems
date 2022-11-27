@@ -11,7 +11,7 @@ def findDigitSum(n, b, s):
     #     d = d * b + int(x)
     # print('decimal of s:', d)
 
-    # generate next n numbers in decimal, and convert it to base b
+    # generate next n numbers from s, and convert it to base b
     total = 0
     nums = []
     for x in range(n):
